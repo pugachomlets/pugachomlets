@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pugachomlets
-- 👀 I’m interested in coding as a full time job.
-- 🌱 I’m currently learning C++, Java, Python, at the University of Texas at Dallas
-- 💞️ I’m looking to collaborate on any projects that wil improve my computer science knowledge.
+- 👀 I’m interested in coding as a full time job specifically web development.
+- 🌱 I’m currently fluent in C++, Java, Python, C++, HTML, Javascript
 - 📫 How to reach me diha0330@gmail.com
 
 <!---
