@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pugachomlets
-- 👀 I’m interested in coding as a full time job specifically web development.
-- 🌱 I’m currently fluent in C++, Java, Python, HTML, Javascript
 - 📫 How to reach me diha0330@gmail.com
 
 <!---
